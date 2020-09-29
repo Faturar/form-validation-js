@@ -1,5 +1,5 @@
 # Form-validation-javascript
 Javascipt project
+only i use on this html css and js
 
-
-preview click https://faturrar.github.io/Form-validation-javascript/
+preview https://faturrar.github.io/Form-validation-javascript/
